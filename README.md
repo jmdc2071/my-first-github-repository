@@ -1,5 +1,5 @@
 # my-first-github-repository
-Fiorst
+First
 
-README.md file was edited manually. Merge conflict version
+README.md file was edited manually. This file was edit locally.
 
